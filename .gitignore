@@ -1,5 +1,0 @@
-# don't commit service worker / OS junk
-.DS_Store
-Thumbs.db
-*.log
-.DS_Store
