@@ -112,6 +112,10 @@ a{color:inherit;text-decoration:none}
 .visit__social a{padding:.5rem 1rem;border:1.5px solid var(--rose);border-radius:999px;color:var(--rose);font-size:.85rem;font-weight:600;transition:background .2s,color .2s}
 .visit__social a:hover{background:var(--rose);color:#fff}
 .visit__map iframe{width:100%;height:320px;border:0;border-radius:var(--radius);box-shadow:var(--shadow)}
+.mapcard{background:linear-gradient(160deg,var(--plum),#2a1822);color:#fff;border-radius:var(--radius);box-shadow:var(--shadow);padding:2rem 1.6rem;text-align:center;display:flex;flex-direction:column;align-items:center;gap:.9rem;min-height:320px;justify-content:center}
+.mapcard__pin{font-size:2.2rem}
+.mapcard__addr{font-size:1.05rem;line-height:1.5;color:rgba(255,255,255,.92)}
+.mapcard__link{color:var(--blush);font-size:.85rem;font-weight:500}
 
 /* cta */
 .cta{background:linear-gradient(135deg,var(--plum),var(--rose));color:#fff;text-align:center;padding:4rem 1.4rem}
